@@ -4,7 +4,9 @@ It can be used to get data from many websites quickly, or it can be used to bypa
 
 If this is you first time running python scripts...
 ## Install Python 3
-## In windows, open Command Prompt (windows key + 'cmd')
+https://www.python.org/downloads/
+## In windows, open Command Prompt 
+(windows key + 'cmd')
 ## Run command
 ```bash
 python --version
